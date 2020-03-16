@@ -5,7 +5,7 @@ Atom syntax scheme based on Canada Learning Code's brand colours
 ![screenshot](docs/screenshot.png)
 
 ## See also
-- [Atom UI theme](https://github.com/adoxography/canada-learning-code-atom-ui)
+- [Atom UI theme](https://github.com/codemo04/canada-learning-code-atom-ui)
 
 ## Colours
 Each colour is taken from one of [Canada Learning Code](https://canadalearningcode.ca)'s program brand colours (with the exception of the Canada Learning Code colours, which come from the overall brand itself).
