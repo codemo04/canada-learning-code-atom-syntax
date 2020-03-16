@@ -6,6 +6,12 @@
   color: @gray;
 }
 
+.syntax--punctuation.syntax--definition.syntax--string {
+  &:not(.syntax--html) {
+    color: @green;
+  }
+}
+
 .syntax--entity {
   &.syntax--name.syntax--tag {
     color: @red;
