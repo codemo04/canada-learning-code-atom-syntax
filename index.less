@@ -1,0 +1,18 @@
+@import "./styles/base.less";
+
+.syntax--comment,
+.syntax--punctuation.syntax--definition.syntax--comment,
+.syntax--doctype {
+  color: @gray;
+}
+
+.syntax--entity {
+  &.syntax--name.syntax--tag {
+    color: @red;
+    text-decoration: underline;
+  }
+
+  &.syntax--other.syntax--attribute-name {
+    color: @purple;
+  }
+}
